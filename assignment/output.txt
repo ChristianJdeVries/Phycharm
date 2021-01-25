@@ -1,0 +1,6 @@
+Ingredient      Amount     Unit       Kcalories    fat        carbohydrat     protein   
+Leek            1.0        100gr      30.00        0.30       4.00            1.80      
+Egg             2.0        100gr      264.00       3.20       49.00           9.00      
+Bread           0.5        100gr      264.00       3.20       49.00           9.00      
+
+Total                                 690.00       8.30       126.50          24.30     
